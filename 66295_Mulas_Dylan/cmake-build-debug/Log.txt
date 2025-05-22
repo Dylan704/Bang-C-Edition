@@ -1,0 +1,11 @@
+
+APERTURA FILE DI SALVATAGGIO: aaa.sav
+
+
+TURNO 1: tocca al giocatore 3, c!
+
+	 Giocatore 3 (c) pesca Mustang!
+	 Giocatore 3 (c) pesca Birra!
+
+	 Giocatore 3 (c) CHIUDE IL GIOCO;
+
